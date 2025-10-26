@@ -1,0 +1,75 @@
+.TopDiv{
+    width: 1070px;
+    height: 50px;
+}
+.SecondDiv{  
+    width: 1070px;
+    height: 100px;
+}
+.SecondFrame{
+    margin-left: 42px;
+}
+.ThirdDiv{
+    margin-top: 700px;
+    margin-left: 60px;
+     width: 1300px;
+    height: 170px
+}
+.FourthDiv{
+    
+     width: 1345px;
+    height: 500px;
+}
+.FourthFrame{
+    margin-top: 110px;
+    margin-left: -70px;
+}
+.FifthDiv{
+    margin-top: 300px;  
+    margin-left: 50px;
+     width: 1345px;
+    height: 800px;
+}
+.sixthDiv{
+    
+    width: 1345px;
+    height: 540px;
+}
+.sixthFrame{
+    margin-left: 50px;
+}
+.seventhDiv{
+    
+    width: 1345px;
+    height: 1090px;
+}
+.seventhFrame{
+    margin-left: 80px;
+}
+.eighthDiv{
+    background-color: rgb(4, 8, 44);
+    margin-top: 50px;
+    width: 1345px;
+    height: 1090px;
+}
+.eightFrame{
+    margin-left: 50px;
+}
+.eightFrameTwo{
+    margin-left: 150px;
+}
+
+.NinthFrame{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.NinthFrameTwo{
+    margin-left: 210px;
+}
+.NinthFRameThree{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.NinthFrameFour{
+    margin-left: 500px;
+}
